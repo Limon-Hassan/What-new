@@ -1,0 +1,284 @@
+@media (min-width:320px) and (max-width:720px) {
+  nav {
+    padding: 15px;
+  }
+
+  .container {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .chammak img {
+    width: 30%;
+  }
+
+  .chammak ul {
+    margin-left: 0px;
+  }
+
+  .chammak ul li a {
+    font-size: 13px;
+    padding-left: 13px;
+  }
+
+  .btn a {
+    font-size: 10px;
+    padding: 7px 10px;
+  }
+
+  #tomatu {
+    width: 100%;
+  }
+
+  .laili {
+    top: 480px;
+    font-size: 28px;
+    letter-spacing: 3px;
+    transform: rotate(-32deg);
+    left: 0;
+  }
+
+  .tyty {
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    animation: policy 2.9s linear;
+    width: 100%;
+  }
+
+  @keyframes policy {
+    0% {
+      right: -30px;
+
+    }
+
+    100% {
+      right: 10px;
+    }
+  }
+
+  .forgain_1 h3 {
+    font-size: 30px;
+    line-height: 130%;
+    padding-top: 150px;
+  }
+
+  .forgain_1 h1 {
+    font-size: 50px;
+  }
+
+  .forgain_1 p {
+    font-size: 16px;
+    width: auto;
+  }
+
+  .gaori {
+    display: block;
+  }
+
+  .hezar {
+    width: 348px;
+    height: 74%;
+    bottom: -50%;
+    background: rgba(253, 110, 10, .3);
+    right: -15px;
+    animation: yoga 1s linear;
+  }
+
+  @keyframes yoga {
+    0% {
+      bottom: -100%;
+
+    }
+
+    100% {
+      bottom: -50%;
+    }
+  }
+
+  .lezart {
+    width: 435px;
+    height: 730px;
+    background: rgba(253, 110, 10, .2);
+    bottom: -56%;
+    right: -60px;
+    animation: writter 2s linear;
+  }
+
+  @keyframes writter {
+    0% {
+      bottom: -112%;
+
+    }
+
+    100% {
+      bottom: -56%;
+    }
+  }
+
+  .pizart {
+    width: 515px;
+    height: 725px;
+    bottom: -50%;
+    right: -100px;
+    animation: another 3s linear;
+  }
+
+  @keyframes another {
+    0% {
+      bottom: -100%;
+
+    }
+
+    100% {
+      bottom: -50%;
+    }
+  }
+
+  .lo a {
+    font-size: 12px;
+    padding: 8px 17px;
+    margin-bottom: 430px;
+  }
+
+  #konia {
+    width: 100%;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .text-center h3 {
+    font-size: 24px;
+    margin-bottom: 25px;
+    padding-top: 60px;
+  }
+
+  .text-center p {
+    font-size: 14px;
+    width: auto;
+  }
+
+  .text-center {
+    padding: 0;
+  }
+
+  .two-btn {
+    gap: 25px;
+    justify-content: center;
+  }
+
+  .reader {
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+    padding-bottom: 50px;
+  }
+
+  .hologram h5 {
+    line-height: 45px;
+    margin-left: 0;
+    margin-top: 8px;
+  }
+
+  #yoyo {
+    width: 100%;
+  }
+
+  .center h3 {
+    font-size: 30px;
+    margin-top: 50px;
+  }
+
+  .center p {
+    width: auto;
+  }
+
+  .defender {
+    display: block;
+    margin: 30px;
+  }
+
+  .lelei {
+    margin-bottom: 50px;
+  }
+
+  #tera {
+    width: 100%;
+  }
+
+  .text-laravel h3 {
+    font-size: 25px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .do-it {
+    display: block;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+
+  .keneiya p {
+    width: auto;
+  }
+
+  .sighsaiofhsaiofhsaiofh {
+    width: auto;
+  }
+
+  .do-it-heppen {
+    display: block;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  .terema {
+    font-size: 14px;
+    padding: 10px 20px;
+  }
+
+  .lol {
+    margin-bottom: 50px;
+  }
+
+  #ome {
+    width: 100%;
+  }
+
+  .evlitatore {
+    display: block;
+    padding-top: 65px;
+    padding-bottom: 90px;
+  }
+
+  .komo-tag h4 {
+    font-size: 28px;
+  }
+
+  .komo-tag p {
+    font-size: 14px;
+    width: auto;
+  }
+
+  .komon-tag h4 {
+    font-size: 21px;
+    margin-bottom: 25px;
+    margin-top: 50px;
+  }
+
+  .inputa .save {
+    width: auto;
+    height: 40px;
+    margin-bottom: 20px;
+    padding: 25px;
+  }
+
+  .komon-tag a {
+    font-size: 13px;
+    line-height: 150%;
+    padding: 10px 26px;
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+}
